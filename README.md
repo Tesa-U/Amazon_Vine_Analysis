@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 ## Overview
 
-In this project, analyzing “Shoes” dataset of Amazon reviews written by members of the paid Amazon Vine program and examining if there is any bias toward favorable reviews from Vine members in your dataset using PySpark to perform the ETL process, connect to an AWS RDS instance, and load the transformed data into pgAdmin. 
+In this project, analyzing “Shoes” dataset of Amazon reviews written by members of the paid Amazon Vine program and examining if there is any bias toward favorable reviews from Vine members in our dataset using PySpark to perform the ETL process, connect to an AWS RDS instance, and load the transformed data into pgAdmin. 
 
 ## Result
 •	Total of 1088895 reviews (where there are 20 or more total votes) were analyzed and 594035 were five-star reviews.
